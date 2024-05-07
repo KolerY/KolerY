@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannick Blanchette</h1>
-<h3 align="center">Studying frontend developement from Canada</h3>
+<h3 align="center">Studying frontend developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolery&label=Profile%20views&color=0e75b6&style=flat" alt="kolery" /> </p>
 
