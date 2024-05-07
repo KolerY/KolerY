@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **yannickblanchette@hotmail.com**
 
-- ⚡ Fun fact **I used to be a professional gamer !**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@koler1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@koler1337" height="30" width="40" /></a>
