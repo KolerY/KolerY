@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolery&label=Profile%20views&color=0e75b6&style=flat" alt="kolery" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@koler1337" target="blank"><img src="https://img.shields.io/twitter/follow/@koler1337?logo=twitter&style=for-the-badge" alt="@koler1337" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@koler1337" target="blank"><img src="https://img.shields.io/twitter/follow/koler1337?logo=twitter&style=for-the-badge" alt="@koler1337" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript , React , Tailwind & Bootstrap**
 
