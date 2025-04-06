@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/@koler1337" target="blank"><img src="https://img.shields.io/twitter/follow/koler1337?logo=twitter&style=for-the-badge" alt="@koler1337" /></a> </p>
 
-- 🌱 I’m currently learning **Angular & Vue**
-
 - 📫 How to reach me **yannickblanchette@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
